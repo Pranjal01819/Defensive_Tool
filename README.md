@@ -1,4 +1,4 @@
-# Offensive_Tool
+# Deffensive_Tool
 # Phishing-Link Detection Tool
 
 [![Python](https://img.shields.io/badge/python-3.8%2B-blue)]()
